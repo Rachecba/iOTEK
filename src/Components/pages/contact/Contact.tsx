@@ -39,7 +39,7 @@ function Contact() {
           <p>Déjenos un mensaje y estaremos respondiéndole muy pronto.</p>
           <p>También puede contáctarnos a nuestro correo, número telefónico o bien, <br/> lo resiviremos en nuestras oficinas.</p>
           <Styled.ContactContainer>
-            <p className="phone-number"><span><i className="fas fa-phone"></i></span> <b>2268-0044</b> </p>
+            <p className="phone-number"><span><i className="fas fa-phone"></i></span> <b>4705-1698</b> </p>
             <p><span><i className="fas fa-envelope"></i></span> <b> soporte@iot3k.com </b> </p>
           </Styled.ContactContainer>
           <p><span><i className="fas fa-map-marker-alt"></i></span> <b> Heredia, Santo Domingo, Condominio Villangel, local #5 </b> </p>

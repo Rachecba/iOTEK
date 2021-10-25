@@ -9,9 +9,7 @@ function Home() {
     return (
       <Styled.Container>
         <Row>
-          <Styled.CarouselContainer>
-            {/* <TextCarousel/> */}
-          </Styled.CarouselContainer>
+          <Styled.CarouselContainer/>
         </Row>
         </Styled.Container>
     );

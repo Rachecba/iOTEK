@@ -29,7 +29,7 @@ function HomeCarousel() {
         </Styled.Image>
         </Styled.MainContainer>
 
-        <div className="arrow bounce"></div>
+        <a href='#system'><div className="arrow bounce"></div></a>
 
     </Styled.Container>  
   )

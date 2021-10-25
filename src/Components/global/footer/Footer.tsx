@@ -40,7 +40,7 @@ function Footer() {
                     <Col sm='6' md='3'>
                         <Style.Info>
                             <div>
-                                <i className="fas fa-phone"></i> 2268-0044
+                                <i className="fas fa-phone"></i> 4705-1698
                             </div>
                             <div>
                                 <i className="fas fa-envelope"></i> soporte@iot3k.com
