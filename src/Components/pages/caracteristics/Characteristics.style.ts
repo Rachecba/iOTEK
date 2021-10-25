@@ -3,7 +3,7 @@ import styled from "styled-components";
 export const Container = styled.div`
     text-align: center;
     font-family: 'Montserrat', sans-serif;
-    background-image: url('public/assets/images/mother-board.jpeg');
+    background-image: url('../../../../public/assets/images/mother-board.jpeg');
     background-size: cover;
 
     .animation {
