@@ -58,7 +58,7 @@ function Footer() {
                     <Col md='8' sm="6" xs="12">
                         <Style.Copyright>
                             <p>&copy; 2021 All Rights Reserved by
-                                iOT3K. Made with <span className='heart'>❤</span> by @rach.codes
+                                iOT3K. Made with <span>✨</span> and <span className='heart'>❤</span> by @rach.codes
                             </p>
                         </Style.Copyright>
                     </Col>
