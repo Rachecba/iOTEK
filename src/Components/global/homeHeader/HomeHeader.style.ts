@@ -7,7 +7,7 @@ export const Container = styled.div`
   padding-bottom: 4rem;
   padding-left: 2rem;
 
-  .arrow {
+.arrow {
   position: relative;
   bottom: -2rem;
   left: 50%;

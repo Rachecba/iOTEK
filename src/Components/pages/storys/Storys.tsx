@@ -6,9 +6,12 @@ import AwesomeSlider from 'react-awesome-slider';
 import withAutoplay from 'react-awesome-slider/dist/autoplay';
 import 'react-awesome-slider/dist/styles.css';
 import * as Styled from './Storys.style';
-const AutoplaySlider = withAutoplay(AwesomeSlider);
+
 
 function Storys() {
+  
+  const AutoplaySlider = withAutoplay(AwesomeSlider);
+
   return (
     <Styled.Container id='storys'>
       <Row>
