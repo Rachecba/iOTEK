@@ -23,10 +23,6 @@ function HomeCarousel() {
           </Styled.Paragraph>
         </Styled.TextContainer>
       </Styled.Text>
-
-        <Styled.Image>
-            <img src='assets/images/Product.png'/>
-        </Styled.Image>
         </Styled.MainContainer>
 
         <a href='#system'><div className="arrow bounce"></div></a>
