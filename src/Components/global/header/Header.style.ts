@@ -60,8 +60,8 @@ export const NavBar = styled.div`
     margin-right: 7rem;
   }
 
-  .dropdown {
-    margin-right: 6rem;
+  .nav-item {
+    margin-right: 2rem;
     text-transform: uppercase;
     line-height: 2;
 

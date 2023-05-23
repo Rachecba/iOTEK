@@ -1,7 +1,7 @@
 import React from 'react';
 import { theme } from './utils/theming/theme';
 import { ThemeProvider } from 'styled-components'
-import { BrowserRouter as Router } from "react-router-dom";
+import { Route, BrowserRouter as Router, Routes } from "react-router-dom";
 import 'bootstrap/dist/css/bootstrap.css';
 
 import * as Styled from './App.style'
@@ -15,24 +15,31 @@ import Contact from './Components/pages/contact/Contact';
 import Footer from './Components/global/footer/Footer';
 import HomeHeader from './Components/global/homeHeader/HomeHeader';
 import Storys from './Components/pages/storys/Storys';
+import Layout from './Components/template/Layout';
+const Catalog = React.lazy(() => import("./Components/pages/catalog/Catalog"));
 
 function App() {
+  const Home = () => {
+    return (<>
+      <SystemInfo />
+      <Solutions />
+      <Characteristics />
+      <Platform />
+      <Storys />
+      <Contact />
+    </>)
+  };
+
   return (
     <ThemeProvider theme={theme}>
-      <Router>
-        <Styled.ContainerWrap>
-          <Header />
-          <HomeHeader />
-          <Home />
-          <SystemInfo />
-          <Solutions />
-          <Characteristics />
-          <Platform />
-          <Storys/>
-          <Contact />
-          <Footer />
-        </Styled.ContainerWrap>
-      </Router>
+      <Styled.ContainerWrap>
+        <Routes>
+          <Route path="/" element={<Layout />} >
+            <Route index element={<Home />} />
+            <Route path="/catalog" element={<Catalog />} />
+          </Route>
+        </Routes>
+      </Styled.ContainerWrap>
     </ThemeProvider>
   );
 }
