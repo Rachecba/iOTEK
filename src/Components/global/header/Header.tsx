@@ -50,10 +50,10 @@ function Header() {
                 Acerca de
               </DropdownToggle>
               <DropdownMenu right>
-                <DropdownItem href='#system'>
+                <DropdownItem href='/#system'>
                   Sistema de iOT3K
                 </DropdownItem>
-                <DropdownItem href='#storys'>
+                <DropdownItem href='/#storys'>
                   Historias de Éxito
                 </DropdownItem>
               </DropdownMenu>
@@ -63,13 +63,13 @@ function Header() {
                 Sistema
               </DropdownToggle>
               <DropdownMenu right>
-                <DropdownItem href='#solutions'>
+                <DropdownItem href='/#solutions'>
                   Soluciones
                 </DropdownItem>
-                <DropdownItem href='#characteristics'>
+                <DropdownItem href='/#characteristics'>
                   Características
                 </DropdownItem>
-                <DropdownItem href='#platform'>
+                <DropdownItem href='/#platform'>
                   Plataforma
                 </DropdownItem>
               </DropdownMenu>
@@ -79,10 +79,10 @@ function Header() {
                 Contacto
               </DropdownToggle>
               <DropdownMenu right>
-                <DropdownItem href='#contact'>
+                <DropdownItem href='/#contact'>
                   Solicite una cotización
                 </DropdownItem>
-                <DropdownItem href='#contact'>
+                <DropdownItem href='/#contact'>
                   Ubíquenos
                 </DropdownItem>
               </DropdownMenu>

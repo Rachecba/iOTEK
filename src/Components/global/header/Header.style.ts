@@ -32,7 +32,7 @@ export const NavBar = styled.div`
     height: 67px;
     transition: all ease 1s;
 
-    .dropdown {
+    .nav-item {
       &:hover {
         border-bottom: 5px solid #FF5B2B;
       }
@@ -48,7 +48,7 @@ export const NavBar = styled.div`
         padding-bottom: 0rem !important;
       }
 
-      .dropdown {
+      .nav-item {
         background-color: white;
       }
 

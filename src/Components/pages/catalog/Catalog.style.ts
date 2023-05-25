@@ -20,12 +20,21 @@ export const Categories = styled.div`
         display: flex;
         justify-content: center;
         list-style-type: none;
+        flex-flow: wrap;
+        ${(props) => props.theme.breakpoints.down('md')} {
+            flex-direction: column;
+
+            li{
+                margin: auto;
+            }
+        }
     }
 
     button {
         display: inline-block;
         padding: 8px 16px;
-        margin: 0 8px;
+        margin: 0 0.5rem;
+        margin-bottom: 1rem;
         background-color: #FF5B2B;
         border: none;
         border-radius: 4px;

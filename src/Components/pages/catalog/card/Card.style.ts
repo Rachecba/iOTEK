@@ -73,4 +73,8 @@ export const CardContainer = styled.div`
     button:hover{
         background-color: #CD2E00;
     }
+
+    ${(props) => props.theme.breakpoints.down('sm')} {
+        width: 100%;
+    }
 `

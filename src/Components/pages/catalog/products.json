@@ -42,7 +42,7 @@
         "description": "El sensor de resistencia inalámbrico emite la resistencia a través de una carga. Está programado para dormir durante un intervalo de tiempo determinado por el usuario (latido) y luego despertar, enviar energía a la resistencia de carga, esperar a que se estabilice y convertir los datos analógicos, calcular matemáticamente la resistencia y transmitir los datos a la puerta de enlace, donde luego se registra en un servicio en la nube."
     },
     {
-        "title": "Medidir de voltaje inalambrico  PRO INDUSTRIAL 0-500VAC",
+        "title": "Medidor de voltaje inalambrico  PRO INDUSTRIAL 0-500VAC",
         "category": "Pro sensors industrial",
         "imageUrl": "wireless-voltage-meter-pro-industrial-0-500vac.png",
         "description": "Los medidores de voltaje inalámbricos de Itokii son capaces de medir el voltaje de otro dispositivo, batería o sensor. Este sensor es capaz de medir voltaje de hasta 500 VCA conectando los cables del sensor a los terminales positivo y de tierra del dispositivo que se está midiendo."
