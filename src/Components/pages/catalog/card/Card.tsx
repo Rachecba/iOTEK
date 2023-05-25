@@ -9,7 +9,7 @@ const Card = ({ product }: Props) => {
     }
     return (<>
         <Styled.CardContainer>
-            <img alt='image' src={product.imageUrl} />
+            <img alt='/images/empty.jpg' src={`/images/products/${product.imageUrl}` || '/images/empty.jpg'} />
             <section>
                 <h4>{product.title}</h4>
                 <span>{product.category}</span>

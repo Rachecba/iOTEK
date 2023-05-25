@@ -13,6 +13,9 @@ export const CardContainer = styled.div`
     img {
         display: flex;
         margin: auto;
+        width: 100%;
+        height: 18rem;
+        object-fit: cover;
     }
 
     section {
