@@ -9,6 +9,8 @@ import {
   DropdownToggle,
   DropdownMenu,
   DropdownItem,
+  NavItem,
+  NavLink,
 } from "reactstrap";
 
 import * as Styled from './Header.style'
@@ -31,7 +33,7 @@ function Header() {
 
   return (
     <Styled.NavBar>
-      <Navbar expand="md" className= {navbar ? 'active' : ''}>
+      <Navbar expand="md" className={navbar ? 'active' : ''}>
         <NavbarBrand href="/"><img src="\assets\images\Logo Iotek.png" alt="iOTEK logo" /></NavbarBrand>
         <NavbarToggler onClick={toggle}>
           <span>
@@ -40,6 +42,9 @@ function Header() {
         </NavbarToggler>
         <Collapse isOpen={isOpen} navbar>
           <Nav navbar>
+            <NavItem>
+              <NavLink href="/catalog/">Productos</NavLink>
+            </NavItem>
             <UncontrolledDropdown nav inNavbar>
               <DropdownToggle nav caret>
                 Acerca de

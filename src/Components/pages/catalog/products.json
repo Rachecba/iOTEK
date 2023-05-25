@@ -1,0 +1,248 @@
+[
+    {
+        "title": "Sensor de presión diferencial inalámbrico PRO INDUSTRIAL",
+        "category": "Pro sensors industrial",
+        "imageUrl": "wireless-differential-pressure-sensor-pro-industrial.png",
+        "description": "El sensor de presión diferencial inalámbrico mide la diferencia de presión entre dos puertos de entrada y transmite la medición al portal del sensor."
+    },
+    {
+        "title": "Sensor de humedad del suelo PRO INDUSTRIAL",
+        "category": "Pro sensors industrial",
+        "imageUrl": "soil-moisture-sensor-pro-industrial.png",
+        "description": "Proporciona una forma muy eficaz de mejorar la programación y la eficiencia del riego. Sabrá cuándo y dónde regar sus cultivos, plantas o jardines a partir de los datos que recopile. Ver tensión de agua para prevenir el estrés hídrico."
+    },
+    {
+        "title": "Sensor de contacto seco inalambrico PRO INDUSTRIAL",
+        "category": "Pro sensors industrial",
+        "imageUrl": "wireless-dry-contact-sensor-pro-industrial.png",
+        "description": "Los sensores inalámbricos de contacto seco de Itokii se pueden usar para detectar el contacto entre dos puntos de contacto cableados."
+    },
+    {
+        "title": "Acelerometro Inalambrico - medidor de variaciones con plomo PRO INDUSTRIAL",
+        "category": "Pro sensors industrial",
+        "imageUrl": "wireless-lead-accelerometer-pro-industrial.png",
+        "description": "Los medidores de vibración con plomo  utilizan un acelerómetro para medir la fuerza g en 3 ejes y luego determinan la velocidad y la frecuencia, también informará el ciclo de trabajo, o cuánto tiempo el sensor estuvo midiendo vibraciones a lo largo del latido del corazón."
+    },
+    {
+        "title": "Sensor de cuerda inalambrico PRO INDUSTRIAL",
+        "category": "Pro sensors industrial",
+        "imageUrl": "wireless-rope-sensor-pro-industrial.png",
+        "description": "El sensor de cable de agua inalámbrico Itokii PRO detecta líquidos conductores en cualquier lugar a lo largo del cable de detección mediante el uso de dos cables cubiertos con polímero conductor."
+    },
+    {
+        "title": "Sensor de baja temperatura inalambrico PRO INDUSTRIAL",
+        "category": "Pro sensors industrial",
+        "imageUrl": "wireless-low-temperature-sensor-pro-industrial.png",
+        "description": "Los sensores inalámbricos de baja temperatura de Itokii usan un RTD para medir con precisión temperaturas de -200 °C a +162 °C. Perfecto para aplicaciones críticas de baja temperatura, como congeladores y refrigeradores."
+    },
+    {
+        "title": "sensor de resistencia inalambrico PRO INDUSTRIAL",
+        "category": "Pro sensors industrial",
+        "imageUrl": "wireless-resistance-sensor-pro-industrial.png",
+        "description": "El sensor de resistencia inalámbrico emite la resistencia a través de una carga. Está programado para dormir durante un intervalo de tiempo determinado por el usuario (latido) y luego despertar, enviar energía a la resistencia de carga, esperar a que se estabilice y convertir los datos analógicos, calcular matemáticamente la resistencia y transmitir los datos a la puerta de enlace, donde luego se registra en un servicio en la nube."
+    },
+    {
+        "title": "Medidir de voltaje inalambrico  PRO INDUSTRIAL 0-500VAC",
+        "category": "Pro sensors industrial",
+        "imageUrl": "wireless-voltage-meter-pro-industrial-0-500vac.png",
+        "description": "Los medidores de voltaje inalámbricos de Itokii son capaces de medir el voltaje de otro dispositivo, batería o sensor. Este sensor es capaz de medir voltaje de hasta 500 VCA conectando los cables del sensor a los terminales positivo y de tierra del dispositivo que se está midiendo."
+    },
+    {
+        "title": "Sensor abierto-cerrado inalambrico PRO INDUSTRIAL",
+        "category": "Pro sensors industrial",
+        "imageUrl": "wireless-open-close-sensor-pro-industrial.png",
+        "description": "Los sensores abiertos/cerrados inalámbricos de Itokii brindan información sobre el estado de puertas, ventanas, gabinetes, etc. Sepa si se está accediendo a un edificio o área cuando no debería, o si una puerta o ventana se ha dejado abierta."
+    },
+    {
+        "title": "Sensor de deteccion / Contador de vehiculos PRO 900Mhz",
+        "category": "Pro sensors industrial",
+        "imageUrl": "vehicle-detection-900mhz-pro-sensor.png",
+        "description": "Los sensores inalámbricos de detección de vehículos Itokii se pueden usar en una gran cantidad de aplicaciones donde se necesita detectar la presencia o el movimiento del vehículo."
+    },
+    {
+        "title": "Sensor de temperatura de agua inalambrico PRO INDUSTRIAL",
+        "category": "Pro sensors industrial",
+        "imageUrl": "wireless-water-temperature-sensor-pro-industrial.png",
+        "description": "El sensor de temperatura del agua inalámbrico Itokii PRO utiliza una sonda de sensor sellada con agua externa de 3 pies para medir temperaturas en agua o líquidos no combustibles."
+    },
+    {
+        "title": "Sensor de deteccion de agua inalambrico PRO INDUSTRIAL",
+        "category": "Pro sensors industrial",
+        "imageUrl": "wireless-water-detection-sensor-pro-industrial.png",
+        "description": "Los sensores de agua inalámbricos de Itokii lo alertan a través de mensajes de texto SMS y/o correo electrónico cuando se detecta agua, lo que evita posibles daños a la propiedad como resultado de inundaciones o fugas."
+    },
+    {
+        "title": "Medidor de corriente inalambrico PRO INDUSTRIAL 0-20 mA",
+        "category": "Pro sensors industrial",
+        "imageUrl": "wireless-current-meter-pro-industrial-0-20ma.png",
+        "description": "Los medidores de corriente inalámbricos de 0-20 mA de Itokii son capaces de medir la corriente de otro dispositivo o sensor, hasta 20 mA (CC), conectando los cables del sensor a los terminales positivo y de tierra del dispositivo que se está midiendo."
+    },
+    {
+        "title": "Sensor de humedad inalambrico PRO INDUSTRIAL",
+        "category": "Pro sensors industrial",
+        "imageUrl": "wireless-humidity-sensor-pro-industrial.png",
+        "description": "Los sensores de humedad inalámbricos de Itokii le permiten monitorear la humedad relativa del aire dentro de una habitación o recinto."
+    },
+    {
+        "title": "Contador de impulsos inalambrico PRO INDUSTRIAL (ENTRADA ÚNICA)",
+        "category": "Pro sensors industrial",
+        "imageUrl": "wireless-pulse-counter-pro-industrial-single-input.png",
+        "description": "Los contadores de pulsos inalámbricos Itokii PRO Industrial se pueden integrar con hasta cuatro dispositivos de interruptor y cierre mecánicos o de contacto seco para contar el número de actuaciones que ocurren dentro de un marco de tiempo determinado para cada entrada."
+    },
+    {
+        "title": "Acelerometro inalambrico 900Mhz - Medidor de vibraciones INDUSTRIAL PRO",
+        "category": "Pro sensors industrial",
+        "imageUrl": "wireless-900mhz-vibration-accelerometer-industrial-pro.png",
+        "description": "Los medidores de vibración PRO usan un acelerómetro para medir la fuerza g en 3 ejes y luego determinan la velocidad y la frecuencia."
+    },
+    {
+        "title": "Monitor de nivel de tanque de propano inalámbrico PRO INDUSTRIAL",
+        "category": "Pro sensors industrial",
+        "imageUrl": "wireless-propane-tank-level-monitor-pro-industrial.png",
+        "description": "El monitor de tanque de propano inalámbrico PRO de Itokii permite al usuario monitorear de forma remota el nivel de un tanque de propano simplemente conectando el sensor R3D® (remoto listo) en un medidor de tanque R3D preinstalado."
+    },
+    {
+        "title": "sensores ultrasonicos inalambricos PRO INDUSTRIALES",
+        "category": "Pro sensors industrial",
+        "imageUrl": "wireless-ultrasonic-sensors-industrial-pro.png",
+        "description": "Los sensores ultrasónicos industriales PRO de Itokii se pueden utilizar en una variedad de aplicaciones para medir distancias entre el sensor y los objetos en su camino."
+    },
+    {
+        "title": "Sensor de velocidad / Velocidad del aire inalambrico PRO INDUSTRIAL",
+        "category": "Pro sensors industrial",
+        "imageUrl": "wireless-speed-air-velocity-sensor-pro-industrial.png",
+        "description": "El sensor inalámbrico de velocidad del aire PRO mide la diferencia de presión entre dos puertos de entrada, la temperatura y la altitud determina la velocidad a la que se mueve el aire en un sistema y transmite la medición al portal web de Itokii."
+    },
+    {
+        "title": "Medidor de corriente inalambrico trifasico PRO INDUSTRIAL - 150 AMP",
+        "category": "Pro sensors industrial",
+        "imageUrl": "wireless-three-phase-current-meter-pro-industrial-150amp.png",
+        "description": "El medidor de corriente trifásico inalámbrico industrial Itokii PRO (150 Amp) mide la corriente RMS de un sistema de corriente alterna (CA) utilizando 3 transformadores de corriente (CT) que envuelven los cables de un sistema de alimentación trifásico."
+    },
+    {
+        "title": "Sensores infrarrojosde presencia y ocupacion  inalambricos - Aalimentados por celdas de moneda",
+        "category": "Pro sensors coin cell",
+        "imageUrl": "wireless-infrared-presence-occupancy-sensors-coin-cell-powered.png",
+        "description": "Itokii wireless utiliza un sensor de infrarrojos para detectar con precisión los movimientos realizados por personas/animales dentro de un rango de 15 pies (4,5 m)."
+    },
+    {
+        "title": "Kit de humo Itokii Pro 900Mhz",
+        "category": "Pro sensors coin cell",
+        "imageUrl": "smoke-kit-itokii-pro-900mhz.png",
+        "description": "El kit de humo inalámbrico Itokii PRO se puede utilizar para detectar fuego/humo en ambientes interiores y enviar un SMS o correo electrónico al usuario. También envía la alerta al portal web de Itokii a través del Wireless Gateway de 900Mhz."
+    },
+    {
+        "title": "Sensor inalambrico de contacto seco Itokii PRO - Alimentado por celdas de moneda",
+        "category": "Pro sensors coin cell",
+        "imageUrl": "wireless-dry-contact-sensor-itokii-pro-coin-cell-powered.png",
+        "description": "Los sensores inalámbricos de contacto seco Itokii PRO se pueden usar para detectar el contacto entre dos puntos de contacto cableados."
+    },
+    {
+        "title": "Medidor de corriente inalambrico 0-20 MA Itokii PRO - Alimentado por celdas de moneda",
+        "category": "Pro sensors coin cell",
+        "imageUrl": "wireless-current-meter-0-20ma-itokii-pro-coin-cell-powered.png",
+        "description": "Los medidores de corriente inalámbricos de 0-20 mA de Itokii son capaces de medir la corriente de otro dispositivo o sensor, hasta 20 mA (CC), conectando los cables del sensor a los terminales positivo y de tierra del dispositivo que se está midiendo."
+    },
+    {
+        "title": "Sensores inalambricos Abierto-Cerrado Itokii PRO - Alimentado por celdas de moneda",
+        "category": "Pro sensors coin cell",
+        "imageUrl": "wireless-open-close-sensors-itokii-pro-coin-cell-powered.png",
+        "description": "Los sensores abiertos/cerrados inalámbricos de Itokii brindan información sobre el estado de puertas, ventanas, gabinetes, etc. Sepa si se está accediendo a un edificio o área cuando no debería, o si una puerta o ventana se ha dejado abierta."
+    },
+    {
+        "title": "Sensor de temperatura inalambrico Itokii PRO - Alimentado por celda de moneda",
+        "category": "Pro sensors coin cell",
+        "imageUrl": "wireless-temperature-sensor-itokii-pro-coin-cell-powered.png",
+        "description": "Los sensores de temperatura inalámbricos Itokii PRO utilizan un termistor para medir con precisión las temperaturas. Estos sensores son perfectos para monitorear la temperatura ambiente alrededor de la ubicación física de los sensores."
+    },
+    {
+        "title": "Sensor de cuerda para agua inalambrico Itokii PRO - Alimentado por celda de moneda",
+        "category": "Pro sensors coin cell",
+        "imageUrl": "wireless-water-rope-sensor-itokii-pro-coin-cell-powered.png",
+        "description": "El sensor de cable de agua inalámbrico Itokii PRO detecta líquidos conductores en cualquier lugar a lo largo del cable de detección mediante el uso de dos cables cubiertos con polímero conductor."
+    },
+    {
+        "title": "Medidor de voltaje inalambrico Itokii PRO 900Mhz 0- 500 VAC/VDC - Celda comercial de moneda",
+        "category": "Pro sensors coin cell",
+        "imageUrl": "wireless-voltage-meter-itokii-pro-900mhz-0-500vacvdc-coin-cell.png",
+        "description": "Los medidores de voltaje inalámbricos Itokii son capaces de medir el voltaje de otro dispositivo, batería o sensor. Este sensor es capaz de medir voltaje de hasta 500 VCA/VCC conectando los cables del sensor a los terminales positivo y de tierra del dispositivo que se está midiendo."
+    },
+    {
+        "title": "Sensor de humedad inalambrico Itokii PRO - Alimentado por celda de moneda",
+        "category": "Pro sensors coin cell",
+        "imageUrl": "wireless-humidity-sensor-itokii-pro-coin-cell-powered.png",
+        "description": "Los sensores de humedad inalámbricos de Itokii le permiten monitorear la humedad relativa del aire dentro de una habitación o recinto. Ideal para monitorear la humedad dentro de invernaderos, espacios industriales, museos, saunas y humidificadores."
+    },
+    {
+        "title": "Sensor de temperatura digital inalámbrico Itokii PRO con LCD",
+        "category": "Pro sensors AA battery",
+        "imageUrl": "wireless-digital-temperature-sensor-itokii-pro-with-lcd.png",
+        "description": "El sensor de temperatura digital Itokii PRO se basa en una plataforma de monitoreo remoto al proporcionar temperaturas de almacenamiento con solo presionar un botón en una pantalla LCD de cuatro dígitos altamente legible."
+    },
+    {
+        "title": "Sensor de humedad inalambrico Itokii PRO Commercial",
+        "category": "Pro sensors AA battery",
+        "imageUrl": "wireless-humidity-sensor-itokii-pro-commercial.png",
+        "description": "Los sensores de humedad inalámbricos de Itokii le permiten monitorear la humedad relativa del aire dentro de una habitación o recinto. Ideal para monitorear la humedad dentro de invernaderos, espacios industriales, museos, saunas y humidificadores."
+    },
+    {
+        "title": "sensor inalambrico de baja temperatura Itokii PRO Commercial",
+        "category": "Pro sensors AA battery",
+        "imageUrl": "wireless-low-temperature-sensor-itokii-pro-commercial.png",
+        "description": "Los sensores inalámbricos de baja temperatura de Itokii usan un RTD para medir con precisión temperaturas de -200 °C a +162 °C. Perfecto para aplicaciones críticas de baja temperatura, como congeladores y enfriadores."
+    },
+    {
+        "title": "Contador de impulsos inalambrico Itokii PRO (ENTRADA ÚNICA) - CON BATERÍA AA",
+        "category": "Pro sensors AA battery",
+        "imageUrl": "wireless-pulse-counter-itokii-pro-single-input-aa-battery.png",
+        "description": "Los contadores de pulsos inalámbricos Itokii PRO se pueden integrar con hasta cuatro dispositivos de interruptor y cierre mecánicos o de contacto seco para contar la cantidad de actuaciones que ocurren dentro de un marco de tiempo determinado para cada entrada."
+    },
+    {
+        "title": "Sensor de temperatura inalambrico Itokii PRO - ALIMENTADO CON BATERÍA AA",
+        "category": "Pro sensors AA battery",
+        "imageUrl": "wireless-temperature-sensor-itokii-pro-aa-battery-powered.png",
+        "description": "Los sensores de temperatura inalámbricos Itokii PRO utilizan un termistor para medir con precisión las temperaturas. Estos sensores son perfectos para monitorear la temperatura ambiente alrededor de la ubicación física de los sensores."
+    },
+    {
+        "title": "Sensor inalambrico de alta temperatura Itokii PRO - CON BATERÍA AA",
+        "category": "Pro sensors AA battery",
+        "imageUrl": "wireless-high-temperature-sensor-itokii-pro-aa-battery.png",
+        "description": "El sensor inalámbrico de alta temperatura Itokii utiliza un RTD para medir con precisión temperaturas de -50 °C a +370 °C. Perfecto para aplicaciones críticas de alta temperatura como hornos, calentadores, hornos y calderas."
+    },
+    {
+        "title": "Sensor medidor de luz PRO COMERCIAL AA BATERÍA",
+        "category": "Pro sensors AA battery",
+        "imageUrl": "wireless-light-meter-pro-commercial-aa-battery.png",
+        "description": "Los medidores de luz inalámbricos Itokii PRO miden la intensidad de la luz en lux (luminiscencia/unidad de área), de 0 a 83 000 lux (rango interior). Perfecto para aplicaciones sensibles a la luz, como el control de la luz en museos y galerías de arte."
+    },
+    {
+        "title": "Sensor de calidad del aire  Itokii PRO 900Mhz 2.5pm Comercial AA",
+        "category": "Pro sensors AA battery",
+        "imageUrl": "wireless-air-quality-sensor-itokii-pro-900mhz-2.5pm-commercial-aa.png",
+        "description": "El medidor de calidad del aire PM2.5 inalámbrico PRO mide las concentraciones de PM1, PM2.5 y PM10 en el aire y transmite la medición al portal web de Itokii."
+    },
+    {
+        "title": "Sensor de gas de monoxido de carbono (CO) PRO inalambrico - COMERCIAL CON BATERÍA AA",
+        "category": "Pro sensors AA battery",
+        "imageUrl": "wireless-carbon-monoxide-co-gas-sensor-pro-aa-battery-commercial.png",
+        "description": "El sensor único alimentado por batería monitorea los lugares de trabajo, las oficinas y los complejos residenciales en busca de monóxido de carbono (CO)."
+    },
+    {
+        "title": "Sensores inalambrico de dioxido de carbono (CO2) Itokii PRO - CON BATERÍA AA",
+        "category": "Pro sensors AA battery",
+        "imageUrl": "wireless-carbon-dioxide-co2-sensors-itokii-pro-aa-battery.png",
+        "description": "El sensor de CO2 Itokii PRO monitorea este gas; si los niveles superan los límites preestablecidos, se alerta al personal designado por mensaje de texto, correo electrónico o llamada."
+    },
+    {
+        "title": "Medidor inalambrico AC Itokii PRO - 500 AMP - Alimentacion con baterias AA",
+        "category": "Pro sensors AA battery",
+        "imageUrl": "wireless-ac-meter-itokii-pro-500amp-aa-battery-powered.png",
+        "description": "Los medidores de corriente CA inalámbricos Itokii PRO miden la corriente RMS de un sistema de corriente alterna (CA) usando un transformador de corriente (CT) que envuelve el cable \"vivo\" de un sistema de alimentación de dos hilos (vivo, común, tierra (opcional))."
+    },
+    {
+        "title": "Medidor de corriente inalambrico AC Itokii PRO - 150 AMP - Alimentado por bateria  AA",
+        "category": "Pro sensors AA battery",
+        "imageUrl": "wireless-ac-current-meter-itokii-pro-150amp-aa-battery.png",
+        "description": "Los medidores de corriente CA inalámbricos Itokii PRO miden la corriente RMS de un sistema de corriente alterna (CA) usando un transformador de corriente (CT) que envuelve el cable \"vivo\" de un sistema de alimentación de dos hilos (vivo, común, tierra (opcional))."
+    }
+]
