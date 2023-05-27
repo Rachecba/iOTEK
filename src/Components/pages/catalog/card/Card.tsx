@@ -5,8 +5,8 @@ import * as Styled from './Card.style'
 const Card = ({ product }: Props) => {
 
     const purchase = () => {
-        const message = encodeURIComponent(`¡Hola! Quisiera obtener más información sobre el producto '${product.title.toLowerCase()}'. ¿Podrían brindarme detalles adicionales, por favor?`);
-        const url = `https://wa.me/50688619545?text=${message}`;
+        const message = encodeURIComponent(`¡Hola! Quisiera obtener más información sobre el producto ‘${product.title.toLowerCase()}’. ¿Podrían brindarme detalles adicionales, por favor?`);
+        const url = `https://wa.me/50660999929?text=${message}`;
         window.open(url, '_blank')
     }
     return (<>
